@@ -1,1 +1,5 @@
-#execute com          npm run dev
+# npm install
+
+# npx prisma generate
+
+# npm run dev
